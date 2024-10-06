@@ -1,0 +1,409 @@
+.console-card-Ps5 {
+    background-image: url('img/Console/Ps5/fond\ Ps5.png '); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Ps5 img {
+    max-width: 100%;
+    border-radius: 10px;
+    
+}
+
+.console-card-Xbox-Series-X {
+    background-image: url('img/Console/Xbox\ Series\ X/fond Xbox Series X.png '); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Xbox-Series-Ximg {
+    max-width: 100%;
+    border-radius: 10px;
+    
+}
+
+.console-card-Nintendo-Switch-OLED {
+    background-image: url('img/Console/Nintendo\ Switch\ OLED/fond Nintendo Switch OLED.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Nintendo-Switch-OLED img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Steam-Deck {
+    background-image: url('img/Console/Steam\ Deck/fond steam deck.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Steam-Deck img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Asus-ROG-Ally {
+    background-image: url('img/Console/Asus\ ROG\ Ally/fond Asus ROG Ally.jpg'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Asus-ROG-Ally img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Magnavox-Odyssey {
+    background-image: url('img/Console/Magnavox\ Odyssey/Magnavox Odyssey fond.jpg'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Magnavox-Odyssey img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Fairchild-Channel-F {
+    background-image: url('img/Console/Fairchild\ Channel\ F/Fairchild Channel F fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Fairchild-Channel-F img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-ColecoVision {
+    background-image: url('img/Console/ColecoVision/ColecoVision\ fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-ColecoVision img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Intellivision {
+    background-image: url('img/Console/Intellivision/Intellivision\ fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Intellivision img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+
+.console-card-Atari-2600 {
+    background-image: url('img/Console/Atari\ 2600/Atari-2600 fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Atari-2600 img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Atari-5200 {
+    background-image: url('img/Console/Atari\ 5200/Atari 5200 fond.jpg'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Atari-5200 img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Atari-7800 {
+    background-image: url('img/Console/Atari\ 7800/Atari 7800 fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Atari-7800 img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-bally-astrocade {
+    background-image: url('img/Console/Bally\ Astrocade/Bally Astrocade fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-bally-astrocade img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-vectrex {
+    background-image: url('img/Console/Vectrex/vectrex\ fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-vectrex img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-odyssey2 {
+    background-image: url('img/Console/Magnavox\ Odyssey\ 2/Magnavox Odyssey 2 fond.jpg'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-odyssey2 img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Sega-SG-1000 {
+    background-image: url('img/Console/Sega\ SG-1000/Sega SG-1000 fond.jpg'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Sega-SG-1000 img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Famicom {
+    background-image: url('img/Console/Nintendo\ Famicom/Nintendo Famicom fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Famicom img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Nintendo-Entertainment-System {
+    background-image: url('img/Console/Nintendo\ Entertainment\ System\ \(NES\)/Nintendo Entertainment System (NES) fond.jpg'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Nintendo-Entertainment-System img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Sega-Master-System {
+    background-image: url('img/Console/Sega\ Master\ System/Sega Master System fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Sega-Master-System img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-SNES {
+    background-image: url('img/Console/Super\ Nintendo\ Entertainment\ System\ \(SNES\)/Super Nintendo Entertainment System (SNES) fond.jpg'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-SNES img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Sega-Genesis {
+    background-image: url('img/Console/Sega\ Genesis\ \ Mega\ Drive/Sega Genesis  Mega Drive fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Sega-Genesis img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-TurboGrafx-16 {
+    background-image: url('img/Console/TurboGrafx-16/TurboGrafx-16\ fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-TurboGrafx-16 img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Neo-Geo {
+    background-image: url('img/Console/Neo\ Geo/Neo Geo fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Neo-Geo img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Atari-Jaguar {
+    background-image: url('img/Console/Atari\ Jaguar/Atari Jaguar fond.jpg'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Atari-Jaguar img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-3DO {
+    background-image: url('img/Console/3DO/3DO\ fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-3DO img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Sega-CD {
+    background-image: url('img/Console/Sega\ CD/Sega CD fond.jpg'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Sega-CD img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Sega-Satur {
+    background-image: url('img/Console/Sega\ Saturn/Sega Saturn fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Sega-Satur img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-PlayStation-1 {
+    background-image: url('img/Console/PlayStation\ 1/PlayStation 1 fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-PlayStation-1 img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Nintendo-64 {
+    background-image: url('img/Console/Nintendo\ 64/Nintendo 64 fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Nintendo-64 img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Sega-Dreamcast {
+    background-image: url('img/Console/Sega\ Dreamcast/Sega Dreamcast fond.jpg'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Sega-Dreamcast img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-WonderSwan {
+    background-image: url('img/Console/WonderSwan/WonderSwan\ fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-WonderSwan img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Game-Boy {
+    background-image: url('img/Console/Nintendo\ Game\ Boy/Nintendo Game Boy fond.jpg'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Game-Boy img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Game-Gear {
+    background-image: url('img/Console/Sega\ Game\ Gear/Nintendo Game Boy fond.jpg'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Game-Gear img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Atari-Lynx {
+    background-image: url('img/Console/Atari\ Lynx/Atari Lynx fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Atari-Lynx img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Game-Boy-Color {
+    background-image: url('img/Console/Nintendo\ Game\ Boy\ Color/Nintendo Game Boy Color fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Game-Boy-Color img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Neo-Geo-Pocket {
+    background-image: url('img/Console/Neo\ Geo\ Pocket/Neo Geo Pocket fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Neo-Geo-Pocket img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.console-card-Amiga-CD32  {
+    background-image: url('img/Console/Amiga\ CD32/Amiga CD32 fond.png'); /* URL de l'image de fond */
+    text-align: center;
+    border-radius: 10px;
+}
+
+.console-card-Amiga-CD32  img {
+    max-width: 100%;
+    border-radius: 10px;
+}
